@@ -7,5 +7,7 @@ public class Sample {
 public void sample ()
 {
 	System.out.println("file demo");
+	System.out.println("hi, this branch");
+
 }
 }
