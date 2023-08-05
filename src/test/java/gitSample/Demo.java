@@ -7,5 +7,6 @@ public class Demo {
 public void sample()
 {
 	System.out.println("sample comited");
+	System.out.println("commit 2nd");
 }
 }
